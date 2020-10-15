@@ -1,4 +1,4 @@
-# Analyze-for-HIV-1-Env-V1-domain-O-glycosylation
+Analyze for O-glycosylation of the HIV-1 Envelope V1 Domain
 
 This program is designed to take a ".fasta" protein alignment of HIV-1 Envelope sequences and analyze them for O-glycosylation sites within the Envelope V1 domain. The output of the program is a ".xlsx" file that can be opened in Microsoft Excel.
 
