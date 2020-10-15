@@ -14,6 +14,7 @@ Required steps:
 
 Output:
 The output will be a table of values. These values will include:
+
 SEQUENCE NAME || V1 LENGTH || # OF S/T IN V1 || # OF SCORED S/T IN V1 (>0.5) || MEAN SCORE (STD DEV) || AMINO ACID # || SCORE
 
 Thanks for using my program! 
